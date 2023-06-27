@@ -12,6 +12,8 @@ header{
     padding: 45px 0px;
 }
 
+/*  Top Section of Page */
+
 h1{
     color: whitesmoke;
     font-size: 36px;
@@ -32,6 +34,20 @@ h3{
 section {
     padding: 45px 0px;
 }
+
+.edgy {
+    background-color: #5f29a3;
+    color: whitesmoke;
+
+}
+
+.edgyimgs{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Main Page Content  */
 
 .shoes {
     width: 100%;
@@ -54,3 +70,4 @@ a:active{
     width:  620px;
     margin:  0px auto;
 }
+
