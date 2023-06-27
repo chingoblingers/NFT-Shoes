@@ -41,10 +41,16 @@ section {
 
 }
 
+.Edgeimg {
+    width: 300px;
+    border-radius: 4.6px;
+}
+
 .edgyimgs{
 
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+
 }
 
 /* Main Page Content  */
