@@ -77,3 +77,9 @@ a:active{
     margin:  0px auto;
 }
 
+footer {
+    padding: 5px 0px;
+    color: #5f29a3;
+    text-align: center;
+}
+
